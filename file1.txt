@@ -1,4 +1,4 @@
 
 Hello This is File One
-This is My Secound Practice in git.
+This is My Second Practice in git.
 hello Every One
